@@ -1,5 +1,6 @@
-/* Simulator for firing orders,takes client id ,client and scrip name and fires the order for multiple persons at a time. 
-	Though certain functionalities can be extended here it is not included for easy analysing.....meme is pronounced as miim.
+/* Version 1.0.1
+	Simulator for firing orders,takes client id ,client and scrip name and fires the order for multiple persons at a time. 
+	Though certain functionalities can be extended here it is not included for easy analysing.....
 */
 #include <iostream>
 #include <stdlib.h>
