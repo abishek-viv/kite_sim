@@ -59,7 +59,7 @@ fire_order_functions::fire_order_functions(string cl_name,string cl_id){
 		}
 
 int main()
-{   fire_order_functions FIRE_odr_1("CLIENT1","RA3113");             // client details being passed to the constructor
+{   	fire_order_functions FIRE_odr_1("CLIENT1","RA3113");             // client details being passed to the constructor
 	fire_order_functions FIRE_odr_2("CLIENT2","QW9112");
 	
 	//client_details cld;	
